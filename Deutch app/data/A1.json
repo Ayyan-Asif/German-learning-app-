@@ -1,0 +1,2513 @@
+[
+  { "word": "sein", "translation": "to be", "sentence_de": "Ich bin Student.", "sentence_en": "I am a student." },
+  { "word": "haben", "translation": "to have", "sentence_de": "Ich habe Zeit.", "sentence_en": "I have time." },
+  { "word": "werden", "translation": "to become", "sentence_de": "Ich werde Arzt.", "sentence_en": "I will become a doctor." },
+  { "word": "gehen", "translation": "to go", "sentence_de": "Ich gehe nach Hause.", "sentence_en": "I go home." },
+  { "word": "kommen", "translation": "to come", "sentence_de": "Er kommt aus Pakistan.", "sentence_en": "He comes from Pakistan." },
+  { "word": "machen", "translation": "to make", "sentence_de": "Ich mache meine Arbeit.", "sentence_en": "I do my work." },
+  { "word": "lernen", "translation": "to learn", "sentence_de": "Ich lerne Deutsch.", "sentence_en": "I learn German." },
+  { "word": "arbeiten", "translation": "to work", "sentence_de": "Ich arbeite heute.", "sentence_en": "I work today." },
+  { "word": "essen", "translation": "to eat", "sentence_de": "Ich esse Brot.", "sentence_en": "I eat bread." },
+  { "word": "trinken", "translation": "to drink", "sentence_de": "Ich trinke Wasser.", "sentence_en": "I drink water." },
+
+  { "word": "Haus", "translation": "house", "sentence_de": "Das Haus ist groß.", "sentence_en": "The house is big." },
+  { "word": "Mann", "translation": "man", "sentence_de": "Der Mann arbeitet.", "sentence_en": "The man works." },
+  { "word": "Frau", "translation": "woman", "sentence_de": "Die Frau lernt.", "sentence_en": "The woman studies." },
+  { "word": "Kind", "translation": "child", "sentence_de": "Das Kind spielt.", "sentence_en": "The child plays." },
+  { "word": "Tag", "translation": "day", "sentence_de": "Der Tag ist schön.", "sentence_en": "The day is beautiful." },
+  { "word": "Zeit", "translation": "time", "sentence_de": "Ich habe keine Zeit.", "sentence_en": "I have no time." },
+  { "word": "Arbeit", "translation": "work", "sentence_de": "Die Arbeit ist wichtig.", "sentence_en": "Work is important." },
+  { "word": "Schule", "translation": "school", "sentence_de": "Ich gehe zur Schule.", "sentence_en": "I go to school." },
+  { "word": "Stadt", "translation": "city", "sentence_de": "Die Stadt ist groß.", "sentence_en": "The city is big." },
+  { "word": "Land", "translation": "country", "sentence_de": "Deutschland ist ein Land.", "sentence_en": "Germany is a country." },
+
+  {
+    "word": "eins",
+    "translation": "one",
+    "sentence_de": "Ich habe nur eins gekauft.",
+    "sentence_en": "I only bought one."
+  },
+  {
+    "word": "zwei",
+    "translation": "two",
+    "sentence_de": "Ich habe zwei Äpfel.",
+    "sentence_en": "I have two apples."
+  },
+  {
+    "word": "drei",
+    "translation": "three",
+    "sentence_de": "Wir sind drei Freunde.",
+    "sentence_en": "We are three friends."
+  },
+  {
+    "word": "vier",
+    "translation": "four",
+    "sentence_de": "Sie hat vier Bücher.",
+    "sentence_en": "She has four books."
+  },
+  {
+    "word": "fünf",
+    "translation": "five",
+    "sentence_de": "Er hat fünf Stifte.",
+    "sentence_en": "He has five pens."
+  },
+  {
+    "word": "sechs",
+    "translation": "six",
+    "sentence_de": "Wir sind zu sechst im Team.",
+    "sentence_en": "There are six of us in the team."
+  },
+  {
+    "word": "sieben",
+    "translation": "seven",
+    "sentence_de": "Heute ist der siebte Tag.",
+    "sentence_en": "Today is the seventh day."
+  },
+  {
+    "word": "acht",
+    "translation": "eight",
+    "sentence_de": "Ich brauche acht Eier.",
+    "sentence_en": "I need eight eggs."
+  },
+  {
+    "word": "neun",
+    "translation": "nine",
+    "sentence_de": "Der Zug fährt um neun Uhr.",
+    "sentence_en": "The train leaves at nine o'clock."
+  },
+  {
+    "word": "zehn",
+    "translation": "ten",
+    "sentence_de": "Ich habe zehn Euro.",
+    "sentence_en": "I have ten euros."
+  },
+  {
+    "word": "der Mann",
+    "translation": "the man",
+    "sentence_de": "Der Mann liest die Zeitung.",
+    "sentence_en": "The man is reading the newspaper."
+  },
+  {
+    "word": "die Frau",
+    "translation": "the woman",
+    "sentence_de": "Die Frau arbeitet im Büro.",
+    "sentence_en": "The woman works in the office."
+  },
+  {
+    "word": "das Kind",
+    "translation": "the child",
+    "sentence_de": "Das Kind spielt im Garten.",
+    "sentence_en": "The child is playing in the garden."
+  },
+  {
+    "word": "ich",
+    "translation": "I",
+    "sentence_de": "Ich gehe heute einkaufen.",
+    "sentence_en": "I am going shopping today."
+  },
+  {
+    "word": "du",
+    "translation": "you (singular)",
+    "sentence_de": "Du bist sehr freundlich.",
+    "sentence_en": "You are very kind."
+  },
+  {
+    "word": "er",
+    "translation": "he",
+    "sentence_de": "Er kommt aus Deutschland.",
+    "sentence_en": "He comes from Germany."
+  },
+  {
+    "word": "sie",
+    "translation": "she",
+    "sentence_de": "Sie arbeitet in einer Schule.",
+    "sentence_en": "She works at a school."
+  },
+  {
+    "word": "es",
+    "translation": "it",
+    "sentence_de": "Es regnet heute.",
+    "sentence_en": "It is raining today."
+  },
+  {
+    "word": "wir",
+    "translation": "we",
+    "sentence_de": "Wir gehen ins Kino.",
+    "sentence_en": "We are going to the cinema."
+  },
+  {
+    "word": "ihr",
+    "translation": "you (plural)",
+    "sentence_de": "Ihr seid meine Freunde.",
+    "sentence_en": "You are my friends."
+  },
+  {
+    "word": "sie",
+    "translation": "they",
+    "sentence_de": "Sie wohnen in Berlin.",
+    "sentence_en": "They live in Berlin."
+  },
+  {
+    "word": "sein",
+    "translation": "to be",
+    "sentence_de": "Ich bin müde.",
+    "sentence_en": "I am tired."
+  },
+  {
+    "word": "haben",
+    "translation": "to have",
+    "sentence_de": "Wir haben ein Auto.",
+    "sentence_en": "We have a car."
+  },
+  {
+    "word": "gehen",
+    "translation": "to go",
+    "sentence_de": "Ich gehe jeden Tag spazieren.",
+    "sentence_en": "I go for a walk every day."
+  },
+  {
+    "word": "kommen",
+    "translation": "to come",
+    "sentence_de": "Er kommt morgen zu Besuch.",
+    "sentence_en": "He is coming to visit tomorrow."
+  },
+  {
+    "word": "essen",
+    "translation": "to eat",
+    "sentence_de": "Wir essen Pizza zum Abendessen.",
+    "sentence_en": "We are eating pizza for dinner."
+  },
+  {
+    "word": "trinken",
+    "translation": "to drink",
+    "sentence_de": "Ich trinke Wasser.",
+    "sentence_en": "I drink water."
+  },
+  {
+    "word": "sprechen",
+    "translation": "to speak",
+    "sentence_de": "Sie spricht Deutsch und Englisch.",
+    "sentence_en": "She speaks German and English."
+  },
+  {
+    "word": "lesen",
+    "translation": "to read",
+    "sentence_de": "Ich lese ein Buch.",
+    "sentence_en": "I am reading a book."
+  },
+  {
+    "word": "schreiben",
+    "translation": "to write",
+    "sentence_de": "Wir schreiben einen Brief.",
+    "sentence_en": "We are writing a letter."
+  },
+  {
+    "word": "wohnen",
+    "translation": "to live/reside",
+    "sentence_de": "Ich wohne in Lahore.",
+    "sentence_en": "I live in Lahore."
+  },
+  {
+    "word": "arbeiten",
+    "translation": "to work",
+    "sentence_de": "Mein Vater arbeitet in einer Bank.",
+    "sentence_en": "My father works in a bank."
+  },
+  {
+    "word": "lernen",
+    "translation": "to learn",
+    "sentence_de": "Ich lerne Deutsch.",
+    "sentence_en": "I am learning German."
+  },
+  {
+    "word": "die Schule",
+    "translation": "school",
+    "sentence_de": "Das Kind geht zur Schule.",
+    "sentence_en": "The child goes to school."
+  },
+  {
+    "word": "der Lehrer",
+    "translation": "teacher (male)",
+    "sentence_de": "Der Lehrer erklärt die Aufgabe.",
+    "sentence_en": "The teacher explains the task."
+  },
+  {
+    "word": "die Lehrerin",
+    "translation": "teacher (female)",
+    "sentence_de": "Die Lehrerin ist sehr nett.",
+    "sentence_en": "The teacher is very nice."
+  },
+  {
+    "word": "das Buch",
+    "translation": "book",
+    "sentence_de": "Ich lese ein interessantes Buch.",
+    "sentence_en": "I am reading an interesting book."
+  },
+  {
+    "word": "der Stift",
+    "translation": "pen/pencil",
+    "sentence_de": "Kann ich deinen Stift benutzen?",
+    "sentence_en": "Can I use your pen?"
+  },
+  {
+    "word": "der Tisch",
+    "translation": "table",
+    "sentence_de": "Der Tisch ist groß.",
+    "sentence_en": "The table is big."
+  },
+  {
+    "word": "der Stuhl",
+    "translation": "chair",
+    "sentence_de": "Setz dich auf den Stuhl.",
+    "sentence_en": "Sit on the chair."
+  },
+  {
+    "word": "das Haus",
+    "translation": "house",
+    "sentence_de": "Wir wohnen in einem großen Haus.",
+    "sentence_en": "We live in a big house."
+  },
+  {
+    "word": "die Wohnung",
+    "translation": "apartment",
+    "sentence_de": "Meine Wohnung ist klein, aber schön.",
+    "sentence_en": "My apartment is small but nice."
+  },
+  {
+    "word": "die Stadt",
+    "translation": "city",
+    "sentence_de": "Berlin ist eine große Stadt.",
+    "sentence_en": "Berlin is a big city."
+  },
+  {
+    "word": "das Dorf",
+    "translation": "village",
+    "sentence_de": "Ich wohne in einem kleinen Dorf.",
+    "sentence_en": "I live in a small village."
+  },
+  {
+    "word": "das Auto",
+    "translation": "car",
+    "sentence_de": "Mein Auto ist blau.",
+    "sentence_en": "My car is blue."
+  },
+  {
+    "word": "der Bus",
+    "translation": "bus",
+    "sentence_de": "Ich fahre mit dem Bus zur Arbeit.",
+    "sentence_en": "I go to work by bus."
+  },
+  {
+    "word": "der Zug",
+    "translation": "train",
+    "sentence_de": "Der Zug kommt pünktlich an.",
+    "sentence_en": "The train arrives on time."
+  },
+  {
+    "word": "das Fahrrad",
+    "translation": "bicycle",
+    "sentence_de": "Ich fahre gern Fahrrad.",
+    "sentence_en": "I like riding a bicycle."
+  },
+  {
+    "word": "der Flughafen",
+    "translation": "airport",
+    "sentence_de": "Der Flughafen ist weit entfernt.",
+    "sentence_en": "The airport is far away."
+  },
+  {
+    "word": "das Gepäck",
+    "translation": "luggage",
+    "sentence_de": "Ich habe mein Gepäck vergessen.",
+    "sentence_en": "I forgot my luggage."
+  },
+  {
+    "word": "das Essen",
+    "translation": "food/meal",
+    "sentence_de": "Das Essen ist lecker.",
+    "sentence_en": "The food is delicious."
+  },
+  {
+    "word": "das Getränk",
+    "translation": "drink",
+    "sentence_de": "Ich möchte ein Getränk bestellen.",
+    "sentence_en": "I would like to order a drink."
+  },
+  {
+    "word": "der Kaffee",
+    "translation": "coffee",
+    "sentence_de": "Ich trinke jeden Morgen Kaffee.",
+    "sentence_en": "I drink coffee every morning."
+  },
+  {
+    "word": "der Tee",
+    "translation": "tea",
+    "sentence_de": "Möchtest du Tee trinken?",
+    "sentence_en": "Do you want to drink tea?"
+  },
+  {
+    "word": "das Wasser",
+    "translation": "water",
+    "sentence_de": "Ich trinke Wasser.",
+    "sentence_en": "I drink water."
+  },
+  {
+    "word": "das Bier",
+    "translation": "beer",
+    "sentence_de": "Er trinkt ein Bier.",
+    "sentence_en": "He drinks a beer."
+  },
+  {
+    "word": "der Wein",
+    "translation": "wine",
+    "sentence_de": "Wir trinken Rotwein zum Abendessen.",
+    "sentence_en": "We drink red wine at dinner."
+  },
+  {
+    "word": "das Brot",
+    "translation": "bread",
+    "sentence_de": "Ich kaufe frisches Brot.",
+    "sentence_en": "I buy fresh bread."
+  },
+  {
+    "word": "das Frühstück",
+    "translation": "breakfast",
+    "sentence_de": "Zum Frühstück esse ich Müsli.",
+    "sentence_en": "I eat cereal for breakfast."
+  },
+  {
+    "word": "das Mittagessen",
+    "translation": "lunch",
+    "sentence_de": "Wir essen um zwölf Mittagessen.",
+    "sentence_en": "We eat lunch at twelve."
+  },
+  {
+    "word": "das Abendessen",
+    "translation": "dinner",
+    "sentence_de": "Zum Abendessen gibt es Suppe.",
+    "sentence_en": "There is soup for dinner."
+  },
+  {
+    "word": "der Morgen",
+    "translation": "morning",
+    "sentence_de": "Am Morgen trinke ich Kaffee.",
+    "sentence_en": "In the morning I drink coffee."
+  },
+  {
+    "word": "der Nachmittag",
+    "translation": "afternoon",
+    "sentence_de": "Am Nachmittag gehen wir spazieren.",
+    "sentence_en": "In the afternoon we go for a walk."
+  },
+  {
+    "word": "der Abend",
+    "translation": "evening",
+    "sentence_de": "Am Abend sehen wir fern.",
+    "sentence_en": "In the evening we watch TV."
+  },
+  {
+    "word": "die Nacht",
+    "translation": "night",
+    "sentence_de": "In der Nacht schlafe ich.",
+    "sentence_en": "I sleep at night."
+  },
+  {
+    "word": "heute",
+    "translation": "today",
+    "sentence_de": "Heute ist ein schöner Tag.",
+    "sentence_en": "Today is a beautiful day."
+  },
+  {
+    "word": "morgen",
+    "translation": "tomorrow",
+    "sentence_de": "Morgen fahren wir nach Berlin.",
+    "sentence_en": "Tomorrow we are going to Berlin."
+  },
+  {
+    "word": "gestern",
+    "translation": "yesterday",
+    "sentence_de": "Gestern war ich im Kino.",
+    "sentence_en": "Yesterday I was at the cinema."
+  },
+  {
+    "word": "die Woche",
+    "translation": "week",
+    "sentence_de": "Die Woche war anstrengend.",
+    "sentence_en": "The week was exhausting."
+  },
+  {
+    "word": "der Monat",
+    "translation": "month",
+    "sentence_de": "Der nächste Monat ist Mai.",
+    "sentence_en": "The next month is May."
+  },
+  {
+    "word": "das Jahr",
+    "translation": "year",
+    "sentence_de": "Dieses Jahr ist kalt.",
+    "sentence_en": "This year is cold."
+  },
+  {
+    "word": "Montag",
+    "translation": "Monday",
+    "sentence_de": "Am Montag habe ich frei.",
+    "sentence_en": "I have free time on Monday."
+  },
+  {
+    "word": "Dienstag",
+    "translation": "Tuesday",
+    "sentence_de": "Dienstag gehe ich einkaufen.",
+    "sentence_en": "I go shopping on Tuesday."
+  },
+  {
+    "word": "Mittwoch",
+    "translation": "Wednesday",
+    "sentence_de": "Mittwoch ist mein Lieblingstag.",
+    "sentence_en": "Wednesday is my favorite day."
+  },
+  {
+    "word": "Donnerstag",
+    "translation": "Thursday",
+    "sentence_de": "Am Donnerstag besuche ich meine Oma.",
+    "sentence_en": "I visit my grandma on Thursday."
+  },
+  {
+    "word": "Freitag",
+    "translation": "Friday",
+    "sentence_de": "Freitag gehe ich ins Kino.",
+    "sentence_en": "On Friday I go to the cinema."
+  },
+  {
+    "word": "Samstag",
+    "translation": "Saturday",
+    "sentence_de": "Samstag ist Markttag.",
+    "sentence_en": "Saturday is market day."
+  },
+  {
+    "word": "Sonntag",
+    "translation": "Sunday",
+    "sentence_de": "Sonntag ruhe ich mich aus.",
+    "sentence_en": "I rest on Sunday."
+  },
+
+  {
+    "word": "gut",
+    "translation": "good",
+    "sentence_de": "Das Essen schmeckt gut.",
+    "sentence_en": "The food tastes good."
+  },
+  {
+    "word": "schlecht",
+    "translation": "bad",
+    "sentence_de": "Der Film war schlecht.",
+    "sentence_en": "The movie was bad."
+  },
+  {
+    "word": "klein",
+    "translation": "small",
+    "sentence_de": "Das Haus ist klein.",
+    "sentence_en": "The house is small."
+  },
+  {
+    "word": "groß",
+    "translation": "big/tall",
+    "sentence_de": "Der Hund ist groß.",
+    "sentence_en": "The dog is big."
+  },
+  {
+    "word": "lang",
+    "translation": "long",
+    "sentence_de": "Der Fluss ist lang.",
+    "sentence_en": "The river is long."
+  },
+  {
+    "word": "kurz",
+    "translation": "short",
+    "sentence_de": "Die Hose ist zu kurz.",
+    "sentence_en": "The pants are too short."
+  },
+  {
+    "word": "alt",
+    "translation": "old",
+    "sentence_de": "Mein Auto ist alt.",
+    "sentence_en": "My car is old."
+  },
+  {
+    "word": "jung",
+    "translation": "young",
+    "sentence_de": "Das Kind ist jung.",
+    "sentence_en": "The child is young."
+  },
+  {
+    "word": "heiß",
+    "translation": "hot",
+    "sentence_de": "Der Tee ist heiß.",
+    "sentence_en": "The tea is hot."
+  },
+  {
+    "word": "kalt",
+    "translation": "cold",
+    "sentence_de": "Das Wasser ist kalt.",
+    "sentence_en": "The water is cold."
+  },
+  {
+    "word": "schön",
+    "translation": "beautiful",
+    "sentence_de": "Der Garten ist schön.",
+    "sentence_en": "The garden is beautiful."
+  },
+  {
+    "word": "hässlich",
+    "translation": "ugly",
+    "sentence_de": "Das Bild ist hässlich.",
+    "sentence_en": "The picture is ugly."
+  },
+  {
+    "word": "leicht",
+    "translation": "easy/light",
+    "sentence_de": "Die Aufgabe ist leicht.",
+    "sentence_en": "The task is easy."
+  },
+  {
+    "word": "schwer",
+    "translation": "difficult/heavy",
+    "sentence_de": "Der Koffer ist schwer.",
+    "sentence_en": "The suitcase is heavy."
+  },
+  {
+    "word": "teuer",
+    "translation": "expensive",
+    "sentence_de": "Das Auto ist teuer.",
+    "sentence_en": "The car is expensive."
+  },
+  {
+    "word": "billig",
+    "translation": "cheap",
+    "sentence_de": "Die Schuhe sind billig.",
+    "sentence_en": "The shoes are cheap."
+  },
+  {
+    "word": "schnell",
+    "translation": "fast",
+    "sentence_de": "Der Hund läuft schnell.",
+    "sentence_en": "The dog runs fast."
+  },
+  {
+    "word": "langsam",
+    "translation": "slow",
+    "sentence_de": "Das Auto fährt langsam.",
+    "sentence_en": "The car drives slowly."
+  },
+  {
+    "word": "früh",
+    "translation": "early",
+    "sentence_de": "Ich stehe früh auf.",
+    "sentence_en": "I get up early."
+  },
+  {
+    "word": "spät",
+    "translation": "late",
+    "sentence_de": "Wir kommen spät nach Hause.",
+    "sentence_en": "We come home late."
+  },
+  {
+    "word": "neu",
+    "translation": "new",
+    "sentence_de": "Ich habe ein neues Handy.",
+    "sentence_en": "I have a new phone."
+  },
+  {
+    "word": "alt",
+    "translation": "old",
+    "sentence_de": "Dieses Buch ist alt.",
+    "sentence_en": "This book is old."
+  },
+  {
+    "word": "richtig",
+    "translation": "correct",
+    "sentence_de": "Die Antwort ist richtig.",
+    "sentence_en": "The answer is correct."
+  },
+  {
+    "word": "falsch",
+    "translation": "wrong",
+    "sentence_de": "Deine Antwort ist falsch.",
+    "sentence_en": "Your answer is wrong."
+  },
+  {
+    "word": "glücklich",
+    "translation": "happy",
+    "sentence_de": "Ich bin glücklich heute.",
+    "sentence_en": "I am happy today."
+  },
+  {
+    "word": "traurig",
+    "translation": "sad",
+    "sentence_de": "Sie ist traurig.",
+    "sentence_en": "She is sad."
+  },
+  {
+    "word": "müde",
+    "translation": "tired",
+    "sentence_de": "Ich bin müde nach der Arbeit.",
+    "sentence_en": "I am tired after work."
+  },
+  {
+    "word": "krank",
+    "translation": "sick",
+    "sentence_de": "Er ist krank und bleibt zu Hause.",
+    "sentence_en": "He is sick and stays at home."
+  },
+  {
+    "word": "gesund",
+    "translation": "healthy",
+    "sentence_de": "Ich esse gesund.",
+    "sentence_en": "I eat healthily."
+  },
+  {
+    "word": "hungrig",
+    "translation": "hungry",
+    "sentence_de": "Ich bin hungrig.",
+    "sentence_en": "I am hungry."
+  },
+  {
+    "word": "durstig",
+    "translation": "thirsty",
+    "sentence_de": "Ich bin durstig.",
+    "sentence_en": "I am thirsty."
+  },
+  {
+    "word": "schlafen",
+    "translation": "to sleep",
+    "sentence_de": "Ich gehe jetzt schlafen.",
+    "sentence_en": "I am going to sleep now."
+  },
+  {
+    "word": "aufstehen",
+    "translation": "to get up",
+    "sentence_de": "Ich stehe um sieben Uhr auf.",
+    "sentence_en": "I get up at seven o'clock."
+  },
+  {
+    "word": "laufen",
+    "translation": "to run/walk",
+    "sentence_de": "Ich laufe jeden Morgen im Park.",
+    "sentence_en": "I run every morning in the park."
+  },
+  {
+    "word": "fahren",
+    "translation": "to drive/go",
+    "sentence_de": "Wir fahren nach Berlin.",
+    "sentence_en": "We are going to Berlin."
+  },
+  {
+    "word": "schwimmen",
+    "translation": "to swim",
+    "sentence_de": "Die Kinder schwimmen im See.",
+    "sentence_en": "The children swim in the lake."
+  },
+  {
+    "word": "tanzen",
+    "translation": "to dance",
+    "sentence_de": "Wir tanzen gerne.",
+    "sentence_en": "We like to dance."
+  },
+  {
+    "word": "singen",
+    "translation": "to sing",
+    "sentence_de": "Ich singe im Chor.",
+    "sentence_en": "I sing in the choir."
+  },
+  {
+    "word": "spielen",
+    "translation": "to play",
+    "sentence_de": "Die Kinder spielen draußen.",
+    "sentence_en": "The children play outside."
+  },
+  {
+    "word": "kaufen",
+    "translation": "to buy",
+    "sentence_de": "Ich kaufe ein neues Handy.",
+    "sentence_en": "I buy a new phone."
+  },
+  {
+    "word": "verkaufen",
+    "translation": "to sell",
+    "sentence_de": "Er verkauft sein Auto.",
+    "sentence_en": "He sells his car."
+  },
+  {
+    "word": "öffnen",
+    "translation": "to open",
+    "sentence_de": "Kannst du die Tür öffnen?",
+    "sentence_en": "Can you open the door?"
+  },
+  {
+    "word": "schließen",
+    "translation": "to close",
+    "sentence_de": "Bitte schließen Sie das Fenster.",
+    "sentence_en": "Please close the window."
+  },
+  {
+    "word": "beginnen",
+    "translation": "to begin",
+    "sentence_de": "Der Kurs beginnt um acht Uhr.",
+    "sentence_en": "The course begins at eight o'clock."
+  },
+  {
+    "word": "enden",
+    "translation": "to end",
+    "sentence_de": "Der Film endet um zehn Uhr.",
+    "sentence_en": "The movie ends at ten o'clock."
+  },
+  {
+    "word": "denken",
+    "translation": "to think",
+    "sentence_de": "Ich denke oft an meine Freunde.",
+    "sentence_en": "I often think about my friends."
+  },
+  {
+    "word": "wissen",
+    "translation": "to know (a fact)",
+    "sentence_de": "Ich weiß die Antwort.",
+    "sentence_en": "I know the answer."
+  },
+  {
+    "word": "kennen",
+    "translation": "to know (person/place)",
+    "sentence_de": "Ich kenne diesen Mann.",
+    "sentence_en": "I know this man."
+  },
+  {
+    "word": "verstehen",
+    "translation": "to understand",
+    "sentence_de": "Ich verstehe die Aufgabe nicht.",
+    "sentence_en": "I don’t understand the task."
+  },
+  {
+    "word": "sprechen",
+    "translation": "to speak",
+    "sentence_de": "Kannst du langsam sprechen?",
+    "sentence_en": "Can you speak slowly?"
+  },
+  {
+    "word": "fragen",
+    "translation": "to ask",
+    "sentence_de": "Ich möchte etwas fragen.",
+    "sentence_en": "I want to ask something."
+  },
+  {
+    "word": "antworten",
+    "translation": "to answer",
+    "sentence_de": "Er antwortet auf die Frage.",
+    "sentence_en": "He answers the question."
+  },
+  {
+    "word": "helfen",
+    "translation": "to help",
+    "sentence_de": "Kannst du mir helfen?",
+    "sentence_en": "Can you help me?"
+  },
+  {
+    "word": "brauchen",
+    "translation": "to need",
+    "sentence_de": "Ich brauche einen Stift.",
+    "sentence_en": "I need a pen."
+  },
+  {
+    "word": "mögen",
+    "translation": "to like",
+    "sentence_de": "Ich mag Schokolade.",
+    "sentence_en": "I like chocolate."
+  },
+  {
+    "word": "lieben",
+    "translation": "to love",
+    "sentence_de": "Ich liebe meine Familie.",
+    "sentence_en": "I love my family."
+  },
+  {
+    "word": "hassen",
+    "translation": "to hate",
+    "sentence_de": "Ich hasse Lügen.",
+    "sentence_en": "I hate lies."
+  },
+  {
+    "word": "spielen",
+    "translation": "to play",
+    "sentence_de": "Wir spielen Fußball.",
+    "sentence_en": "We play football."
+  },
+  {
+    "word": "arbeiten",
+    "translation": "to work",
+    "sentence_de": "Ich arbeite im Büro.",
+    "sentence_en": "I work in the office."
+  },
+  {
+    "word": "reisen",
+    "translation": "to travel",
+    "sentence_de": "Wir reisen nach Spanien.",
+    "sentence_en": "We travel to Spain."
+  },
+  {
+    "word": "lernen",
+    "translation": "to learn",
+    "sentence_de": "Ich lerne Deutsch jeden Tag.",
+    "sentence_en": "I learn German every day."
+  },
+  {
+    "word": "verstehen",
+    "translation": "to understand",
+    "sentence_de": "Ich verstehe dich nicht.",
+    "sentence_en": "I don’t understand you."
+  },
+  {
+    "word": "sagen",
+    "translation": "to say",
+    "sentence_de": "Er sagt die Wahrheit.",
+    "sentence_en": "He tells the truth."
+  },
+  {
+    "word": "gehen",
+    "translation": "to go",
+    "sentence_de": "Wir gehen ins Kino.",
+    "sentence_en": "We go to the cinema."
+  },
+  {
+    "word": "kommen",
+    "translation": "to come",
+    "sentence_de": "Kommst du mit mir?",
+    "sentence_en": "Are you coming with me?"
+  },
+  {
+    "word": "bleiben",
+    "translation": "to stay",
+    "sentence_de": "Ich bleibe zu Hause.",
+    "sentence_en": "I stay at home."
+  },
+  {
+    "word": "setzen",
+    "translation": "to sit/set",
+    "sentence_de": "Setz dich bitte.",
+    "sentence_en": "Please sit down."
+  },
+  {
+    "word": "stehen",
+    "translation": "to stand",
+    "sentence_de": "Ich stehe am Fenster.",
+    "sentence_en": "I am standing at the window."
+  },
+  {
+    "word": "liegen",
+    "translation": "to lie (position)",
+    "sentence_de": "Das Buch liegt auf dem Tisch.",
+    "sentence_en": "The book lies on the table."
+  },
+    {
+    "word": "fahren",
+    "translation": "to drive/go",
+    "sentence_de": "Wir fahren mit dem Bus zur Schule.",
+    "sentence_en": "We go to school by bus."
+  },
+  {
+    "word": "fliegen",
+    "translation": "to fly",
+    "sentence_de": "Wir fliegen nach Paris.",
+    "sentence_en": "We are flying to Paris."
+  },
+  {
+    "word": "fallen",
+    "translation": "to fall",
+    "sentence_de": "Das Glas ist gefallen.",
+    "sentence_en": "The glass fell."
+  },
+  {
+    "word": "laufen",
+    "translation": "to run/walk",
+    "sentence_de": "Ich laufe jeden Morgen im Park.",
+    "sentence_en": "I run every morning in the park."
+  },
+  {
+    "word": "bringen",
+    "translation": "to bring",
+    "sentence_de": "Kannst du mir ein Buch bringen?",
+    "sentence_en": "Can you bring me a book?"
+  },
+  {
+    "word": "nehmen",
+    "translation": "to take",
+    "sentence_de": "Ich nehme den Bus.",
+    "sentence_en": "I take the bus."
+  },
+  {
+    "word": "geben",
+    "translation": "to give",
+    "sentence_de": "Kannst du mir das Salz geben?",
+    "sentence_en": "Can you give me the salt?"
+  },
+  {
+    "word": "finden",
+    "translation": "to find",
+    "sentence_de": "Ich finde meinen Schlüssel nicht.",
+    "sentence_en": "I cannot find my keys."
+  },
+  {
+    "word": "verlieren",
+    "translation": "to lose",
+    "sentence_de": "Ich habe mein Handy verloren.",
+    "sentence_en": "I lost my phone."
+  },
+  {
+    "word": "vergessen",
+    "translation": "to forget",
+    "sentence_de": "Ich habe meine Hausaufgaben vergessen.",
+    "sentence_en": "I forgot my homework."
+  },
+  {
+    "word": "lesen",
+    "translation": "to read",
+    "sentence_de": "Ich lese ein Buch.",
+    "sentence_en": "I am reading a book."
+  },
+  {
+    "word": "schreiben",
+    "translation": "to write",
+    "sentence_de": "Ich schreibe einen Brief.",
+    "sentence_en": "I am writing a letter."
+  },
+  {
+    "word": "hören",
+    "translation": "to hear/listen",
+    "sentence_de": "Ich höre Musik.",
+    "sentence_en": "I listen to music."
+  },
+  {
+    "word": "sehen",
+    "translation": "to see/watch",
+    "sentence_de": "Ich sehe einen Film.",
+    "sentence_en": "I am watching a movie."
+  },
+  {
+    "word": "schauen",
+    "translation": "to look/watch",
+    "sentence_de": "Schau mal hier!",
+    "sentence_en": "Look here!"
+  },
+  {
+    "word": "fragen",
+    "translation": "to ask",
+    "sentence_de": "Kann ich dich etwas fragen?",
+    "sentence_en": "Can I ask you something?"
+  },
+  {
+    "word": "antworten",
+    "translation": "to answer",
+    "sentence_de": "Er antwortet schnell.",
+    "sentence_en": "He answers quickly."
+  },
+  {
+    "word": "denken",
+    "translation": "to think",
+    "sentence_de": "Ich denke oft an meine Freunde.",
+    "sentence_en": "I often think about my friends."
+  },
+  {
+    "word": "glauben",
+    "translation": "to believe",
+    "sentence_de": "Ich glaube dir.",
+    "sentence_en": "I believe you."
+  },
+  {
+    "word": "wissen",
+    "translation": "to know (fact)",
+    "sentence_de": "Ich weiß die Antwort.",
+    "sentence_en": "I know the answer."
+  },
+  {
+    "word": "kennen",
+    "translation": "to know (person/place)",
+    "sentence_de": "Ich kenne Berlin gut.",
+    "sentence_en": "I know Berlin well."
+  },
+  {
+    "word": "arbeiten",
+    "translation": "to work",
+    "sentence_de": "Ich arbeite im Büro.",
+    "sentence_en": "I work in the office."
+  },
+  {
+    "word": "studieren",
+    "translation": "to study",
+    "sentence_de": "Ich studiere Deutsch.",
+    "sentence_en": "I study German."
+  },
+  {
+    "word": "lernen",
+    "translation": "to learn",
+    "sentence_de": "Ich lerne jeden Tag neue Wörter.",
+    "sentence_en": "I learn new words every day."
+  },
+  {
+    "word": "spielen",
+    "translation": "to play",
+    "sentence_de": "Die Kinder spielen draußen.",
+    "sentence_en": "The children play outside."
+  },
+  {
+    "word": "wohnen",
+    "translation": "to live (reside)",
+    "sentence_de": "Ich wohne in Lahore.",
+    "sentence_en": "I live in Lahore."
+  },
+  {
+    "word": "leben",
+    "translation": "to live (exist)",
+    "sentence_de": "Ich lebe gesund.",
+    "sentence_en": "I live healthily."
+  },
+  {
+    "word": "reisen",
+    "translation": "to travel",
+    "sentence_de": "Wir reisen nach Deutschland.",
+    "sentence_en": "We travel to Germany."
+  },
+  {
+    "word": "besuchen",
+    "translation": "to visit",
+    "sentence_de": "Ich besuche meine Großeltern.",
+    "sentence_en": "I visit my grandparents."
+  },
+  {
+    "word": "helfen",
+    "translation": "to help",
+    "sentence_de": "Kannst du mir helfen?",
+    "sentence_en": "Can you help me?"
+  },
+  {
+    "word": "brauchen",
+    "translation": "to need",
+    "sentence_de": "Ich brauche einen Stift.",
+    "sentence_en": "I need a pen."
+  },
+  {
+    "word": "mögen",
+    "translation": "to like",
+    "sentence_de": "Ich mag Pizza.",
+    "sentence_en": "I like pizza."
+  },
+  {
+    "word": "lieben",
+    "translation": "to love",
+    "sentence_de": "Ich liebe meine Familie.",
+    "sentence_en": "I love my family."
+  },
+  {
+    "word": "hassen",
+    "translation": "to hate",
+    "sentence_de": "Ich hasse Regenwetter.",
+    "sentence_en": "I hate rainy weather."
+  },
+  {
+    "word": "sehen",
+    "translation": "to see/watch",
+    "sentence_de": "Ich sehe einen Vogel.",
+    "sentence_en": "I see a bird."
+  },
+  {
+    "word": "schauen",
+    "translation": "to look/watch",
+    "sentence_de": "Schau den Film!",
+    "sentence_en": "Watch the movie!"
+  },
+  {
+    "word": "hören",
+    "translation": "to hear/listen",
+    "sentence_de": "Ich höre Radio.",
+    "sentence_en": "I listen to the radio."
+  },
+  {
+    "word": "fühlen",
+    "translation": "to feel",
+    "sentence_de": "Ich fühle mich müde.",
+    "sentence_en": "I feel tired."
+  },
+  {
+    "word": "riechen",
+    "translation": "to smell",
+    "sentence_de": "Die Blumen riechen gut.",
+    "sentence_en": "The flowers smell good."
+  },
+  {
+    "word": "schmecken",
+    "translation": "to taste",
+    "sentence_de": "Das Essen schmeckt lecker.",
+    "sentence_en": "The food tastes delicious."
+  },
+  {
+    "word": "öffnen",
+    "translation": "to open",
+    "sentence_de": "Ich öffne die Tür.",
+    "sentence_en": "I open the door."
+  },
+  {
+    "word": "schließen",
+    "translation": "to close",
+    "sentence_de": "Schließe das Fenster bitte.",
+    "sentence_en": "Please close the window."
+  },
+  {
+    "word": "beginnen",
+    "translation": "to begin",
+    "sentence_de": "Die Stunde beginnt jetzt.",
+    "sentence_en": "The lesson begins now."
+  },
+  {
+    "word": "enden",
+    "translation": "to end",
+    "sentence_de": "Der Kurs endet um fünf Uhr.",
+    "sentence_en": "The course ends at five o'clock."
+  },
+  {
+    "word": "suchen",
+    "translation": "to search/look for",
+    "sentence_de": "Ich suche meine Brille.",
+    "sentence_en": "I am looking for my glasses."
+  },
+  {
+    "word": "finden",
+    "translation": "to find",
+    "sentence_de": "Ich finde meinen Schlüssel.",
+    "sentence_en": "I found my key."
+  },
+  {
+    "word": "verlieren",
+    "translation": "to lose",
+    "sentence_de": "Ich habe mein Handy verloren.",
+    "sentence_en": "I lost my phone."
+  },
+  {
+    "word": "vergessen",
+    "translation": "to forget",
+    "sentence_de": "Ich habe meinen Termin vergessen.",
+    "sentence_en": "I forgot my appointment."
+  },
+   {
+    "word": "reisen",
+    "translation": "to travel",
+    "sentence_de": "Wir reisen im Sommer nach Italien.",
+    "sentence_en": "We are traveling to Italy in the summer."
+  },
+  {
+    "word": "besuchen",
+    "translation": "to visit",
+    "sentence_de": "Ich besuche meine Großeltern am Wochenende.",
+    "sentence_en": "I visit my grandparents on the weekend."
+  },
+  {
+    "word": "helfen",
+    "translation": "to help",
+    "sentence_de": "Kannst du mir bitte helfen?",
+    "sentence_en": "Can you help me, please?"
+  },
+  {
+    "word": "brauchen",
+    "translation": "to need",
+    "sentence_de": "Ich brauche einen neuen Stift.",
+    "sentence_en": "I need a new pen."
+  },
+  {
+    "word": "mögen",
+    "translation": "to like",
+    "sentence_de": "Ich mag Schokolade sehr.",
+    "sentence_en": "I really like chocolate."
+  },
+  {
+    "word": "lieben",
+    "translation": "to love",
+    "sentence_de": "Ich liebe meine Familie.",
+    "sentence_en": "I love my family."
+  },
+  {
+    "word": "hassen",
+    "translation": "to hate",
+    "sentence_de": "Ich hasse es, früh aufzustehen.",
+    "sentence_en": "I hate getting up early."
+  },
+  {
+    "word": "fühlen",
+    "translation": "to feel",
+    "sentence_de": "Ich fühle mich glücklich.",
+    "sentence_en": "I feel happy."
+  },
+  {
+    "word": "riechen",
+    "translation": "to smell",
+    "sentence_de": "Die Blumen riechen wunderbar.",
+    "sentence_en": "The flowers smell wonderful."
+  },
+  {
+    "word": "schmecken",
+    "translation": "to taste",
+    "sentence_de": "Das Essen schmeckt lecker.",
+    "sentence_en": "The food tastes delicious."
+  },
+  {
+    "word": "öffnen",
+    "translation": "to open",
+    "sentence_de": "Kannst du bitte die Tür öffnen?",
+    "sentence_en": "Can you please open the door?"
+  },
+  {
+    "word": "schließen",
+    "translation": "to close",
+    "sentence_de": "Schließe das Fenster, bitte.",
+    "sentence_en": "Close the window, please."
+  },
+  {
+    "word": "beginnen",
+    "translation": "to begin",
+    "sentence_de": "Die Vorstellung beginnt um acht Uhr.",
+    "sentence_en": "The show begins at eight o'clock."
+  },
+  {
+    "word": "enden",
+    "translation": "to end",
+    "sentence_de": "Der Film endet um zehn Uhr.",
+    "sentence_en": "The movie ends at ten o'clock."
+  },
+  {
+    "word": "suchen",
+    "translation": "to search/look for",
+    "sentence_de": "Ich suche meine Schlüssel.",
+    "sentence_en": "I am looking for my keys."
+  },
+  {
+    "word": "finden",
+    "translation": "to find",
+    "sentence_de": "Ich finde mein Handy nicht.",
+    "sentence_en": "I can't find my phone."
+  },
+  {
+    "word": "verlieren",
+    "translation": "to lose",
+    "sentence_de": "Ich habe mein Buch verloren.",
+    "sentence_en": "I lost my book."
+  },
+  {
+    "word": "vergessen",
+    "translation": "to forget",
+    "sentence_de": "Ich habe den Termin vergessen.",
+    "sentence_en": "I forgot the appointment."
+  },
+  {
+    "word": "zahlen",
+    "translation": "to pay",
+    "sentence_de": "Ich zahle die Rechnung.",
+    "sentence_en": "I pay the bill."
+  },
+  {
+    "word": "kaufen",
+    "translation": "to buy",
+    "sentence_de": "Ich kaufe ein neues Buch.",
+    "sentence_en": "I buy a new book."
+  },
+  {
+    "word": "verkaufen",
+    "translation": "to sell",
+    "sentence_de": "Er verkauft sein altes Auto.",
+    "sentence_en": "He is selling his old car."
+  },
+  {
+    "word": "kosten",
+    "translation": "to cost",
+    "sentence_de": "Das kostet fünf Euro.",
+    "sentence_en": "That costs five euros."
+  },
+  {
+    "word": "bezahlen",
+    "translation": "to pay for",
+    "sentence_de": "Ich bezahle das Essen.",
+    "sentence_en": "I pay for the food."
+  },
+  {
+    "word": "arbeiten",
+    "translation": "to work",
+    "sentence_de": "Ich arbeite in einem Büro.",
+    "sentence_en": "I work in an office."
+  },
+  {
+    "word": "studieren",
+    "translation": "to study",
+    "sentence_de": "Ich studiere Medizin an der Universität.",
+    "sentence_en": "I study medicine at the university."
+  },
+  {
+    "word": "lernen",
+    "translation": "to learn",
+    "sentence_de": "Ich lerne Deutsch jeden Tag.",
+    "sentence_en": "I learn German every day."
+  },
+  {
+    "word": "spielen",
+    "translation": "to play",
+    "sentence_de": "Die Kinder spielen draußen.",
+    "sentence_en": "The children are playing outside."
+  },
+  {
+    "word": "wohnen",
+    "translation": "to live (reside)",
+    "sentence_de": "Ich wohne in Lahore.",
+    "sentence_en": "I live in Lahore."
+  },
+  {
+    "word": "leben",
+    "translation": "to live (exist)",
+    "sentence_de": "Ich lebe gesund.",
+    "sentence_en": "I live healthily."
+  },
+  {
+    "word": "träumen",
+    "translation": "to dream",
+    "sentence_de": "Ich träume von einem Urlaub am Meer.",
+    "sentence_en": "I dream of a vacation at the sea."
+  },
+  {
+    "word": "wünschen",
+    "translation": "to wish",
+    "sentence_de": "Ich wünsche dir alles Gute.",
+    "sentence_en": "I wish you all the best."
+  },
+  {
+    "word": "vergessen",
+    "translation": "to forget",
+    "sentence_de": "Ich habe mein Passwort vergessen.",
+    "sentence_en": "I forgot my password."
+  },
+  {
+    "word": "erzählen",
+    "translation": "to tell",
+    "sentence_de": "Kannst du mir eine Geschichte erzählen?",
+    "sentence_en": "Can you tell me a story?"
+  },
+  {
+    "word": "fragen",
+    "translation": "to ask",
+    "sentence_de": "Ich möchte etwas fragen.",
+    "sentence_en": "I would like to ask something."
+  },
+    {
+    "word": "rot",
+    "translation": "red",
+    "sentence_de": "Die Tomate ist rot.",
+    "sentence_en": "The tomato is red."
+  },
+  {
+    "word": "blau",
+    "translation": "blue",
+    "sentence_de": "Der Himmel ist blau.",
+    "sentence_en": "The sky is blue."
+  },
+  {
+    "word": "grün",
+    "translation": "green",
+    "sentence_de": "Das Gras ist grün.",
+    "sentence_en": "The grass is green."
+  },
+  {
+    "word": "gelb",
+    "translation": "yellow",
+    "sentence_de": "Die Banane ist gelb.",
+    "sentence_en": "The banana is yellow."
+  },
+  {
+    "word": "schwarz",
+    "translation": "black",
+    "sentence_de": "Der Hund ist schwarz.",
+    "sentence_en": "The dog is black."
+  },
+  {
+    "word": "weiß",
+    "translation": "white",
+    "sentence_de": "Die Wand ist weiß.",
+    "sentence_en": "The wall is white."
+  },
+  {
+    "word": "grau",
+    "translation": "gray",
+    "sentence_de": "Das Auto ist grau.",
+    "sentence_en": "The car is gray."
+  },
+  {
+    "word": "braun",
+    "translation": "brown",
+    "sentence_de": "Die Schuhe sind braun.",
+    "sentence_en": "The shoes are brown."
+  },
+  {
+    "word": "groß",
+    "translation": "big, tall",
+    "sentence_de": "Der Tisch ist groß.",
+    "sentence_en": "The table is big."
+  },
+  {
+    "word": "klein",
+    "translation": "small, short",
+    "sentence_de": "Das Kind ist klein.",
+    "sentence_en": "The child is small."
+  },
+  {
+    "word": "lang",
+    "translation": "long",
+    "sentence_de": "Das Kleid ist lang.",
+    "sentence_en": "The dress is long."
+  },
+  {
+    "word": "kurz",
+    "translation": "short",
+    "sentence_de": "Die Haare sind kurz.",
+    "sentence_en": "The hair is short."
+  },
+  {
+    "word": "gut",
+    "translation": "good",
+    "sentence_de": "Das Essen schmeckt gut.",
+    "sentence_en": "The food tastes good."
+  },
+  {
+    "word": "schlecht",
+    "translation": "bad",
+    "sentence_de": "Der Film war schlecht.",
+    "sentence_en": "The movie was bad."
+  },
+  {
+    "word": "warm",
+    "translation": "warm",
+    "sentence_de": "Das Wetter ist warm.",
+    "sentence_en": "The weather is warm."
+  },
+  {
+    "word": "kalt",
+    "translation": "cold",
+    "sentence_de": "Das Wasser ist kalt.",
+    "sentence_en": "The water is cold."
+  },
+  {
+    "word": "heiß",
+    "translation": "hot",
+    "sentence_de": "Der Tee ist heiß.",
+    "sentence_en": "The tea is hot."
+  },
+  {
+    "word": "jung",
+    "translation": "young",
+    "sentence_de": "Mein Bruder ist jung.",
+    "sentence_en": "My brother is young."
+  },
+  {
+    "word": "alt",
+    "translation": "old",
+    "sentence_de": "Die Stadt ist alt.",
+    "sentence_en": "The city is old."
+  },
+  {
+    "word": "neu",
+    "translation": "new",
+    "sentence_de": "Ich habe ein neues Buch.",
+    "sentence_en": "I have a new book."
+  },
+  {
+    "word": "schnell",
+    "translation": "fast",
+    "sentence_de": "Das Auto fährt schnell.",
+    "sentence_en": "The car drives fast."
+  },
+  {
+    "word": "langsam",
+    "translation": "slow",
+    "sentence_de": "Der Bus fährt langsam.",
+    "sentence_en": "The bus drives slowly."
+  },
+  {
+    "word": "oft",
+    "translation": "often",
+    "sentence_de": "Ich gehe oft ins Kino.",
+    "sentence_en": "I often go to the cinema."
+  },
+  {
+    "word": "selten",
+    "translation": "rarely",
+    "sentence_de": "Er isst selten Fleisch.",
+    "sentence_en": "He rarely eats meat."
+  },
+  {
+    "word": "immer",
+    "translation": "always",
+    "sentence_de": "Sie ist immer freundlich.",
+    "sentence_en": "She is always friendly."
+  },
+  {
+    "word": "manchmal",
+    "translation": "sometimes",
+    "sentence_de": "Manchmal regnet es hier.",
+    "sentence_en": "Sometimes it rains here."
+  },
+  {
+    "word": "nie",
+    "translation": "never",
+    "sentence_de": "Ich trinke nie Cola.",
+    "sentence_en": "I never drink cola."
+  },
+  {
+    "word": "hier",
+    "translation": "here",
+    "sentence_de": "Komm hier!",
+    "sentence_en": "Come here!"
+  },
+  {
+    "word": "dort",
+    "translation": "there",
+    "sentence_de": "Das Buch liegt dort.",
+    "sentence_en": "The book is there."
+  },
+  {
+    "word": "links",
+    "translation": "left",
+    "sentence_de": "Biege links ab.",
+    "sentence_en": "Turn left."
+  },
+  {
+    "word": "rechts",
+    "translation": "right",
+    "sentence_de": "Gehe rechts.",
+    "sentence_en": "Go right."
+  },
+  {
+    "word": "geradeaus",
+    "translation": "straight ahead",
+    "sentence_de": "Geh geradeaus.",
+    "sentence_en": "Go straight ahead."
+  },
+  {
+    "word": "oben",
+    "translation": "above, upstairs",
+    "sentence_de": "Die Lampe hängt oben.",
+    "sentence_en": "The lamp hangs above."
+  },
+  {
+    "word": "unten",
+    "translation": "below, downstairs",
+    "sentence_de": "Der Keller ist unten.",
+    "sentence_en": "The basement is downstairs."
+  },
+  {
+    "word": "in",
+    "translation": "in",
+    "sentence_de": "Das Buch ist in der Tasche.",
+    "sentence_en": "The book is in the bag."
+  },
+  {
+    "word": "auf",
+    "translation": "on",
+    "sentence_de": "Das Glas steht auf dem Tisch.",
+    "sentence_en": "The glass is on the table."
+  },
+  {
+    "word": "unter",
+    "translation": "under",
+    "sentence_de": "Die Katze liegt unter dem Stuhl.",
+    "sentence_en": "The cat is under the chair."
+  },
+  {
+    "word": "vor",
+    "translation": "in front of, before",
+    "sentence_de": "Ich warte vor dem Haus.",
+    "sentence_en": "I wait in front of the house."
+  },
+  {
+    "word": "hinter",
+    "translation": "behind",
+    "sentence_de": "Der Garten ist hinter dem Haus.",
+    "sentence_en": "The garden is behind the house."
+  },
+  {
+    "word": "zwischen",
+    "translation": "between",
+    "sentence_de": "Der Stuhl steht zwischen den Tischen.",
+    "sentence_en": "The chair is between the tables."
+  },
+  {
+    "word": "neben",
+    "translation": "next to",
+    "sentence_de": "Er sitzt neben mir.",
+    "sentence_en": "He sits next to me."
+  },
+  {
+    "word": "über",
+    "translation": "over, above",
+    "sentence_de": "Die Lampe hängt über dem Tisch.",
+    "sentence_en": "The lamp hangs over the table."
+  },
+  {
+    "word": "mit",
+    "translation": "with",
+    "sentence_de": "Ich gehe mit meinem Freund.",
+    "sentence_en": "I go with my friend."
+  },
+  {
+    "word": "ohne",
+    "translation": "without",
+    "sentence_de": "Ich trinke Kaffee ohne Zucker.",
+    "sentence_en": "I drink coffee without sugar."
+  },
+  {
+    "word": "für",
+    "translation": "for",
+    "sentence_de": "Das Geschenk ist für dich.",
+    "sentence_en": "The gift is for you."
+  },
+  {
+    "word": "von",
+    "translation": "from",
+    "sentence_de": "Ich komme von der Arbeit.",
+    "sentence_en": "I come from work."
+  },
+  {
+    "word": "zu",
+    "translation": "to",
+    "sentence_de": "Ich gehe zum Arzt.",
+    "sentence_en": "I go to the doctor."
+  },
+  {
+    "word": "bis",
+    "translation": "until",
+    "sentence_de": "Ich arbeite bis sechs Uhr.",
+    "sentence_en": "I work until six o'clock."
+  },
+  {
+    "word": "nach",
+    "translation": "after, to",
+    "sentence_de": "Wir gehen nach der Schule nach Hause.",
+    "sentence_en": "We go home after school."
+  },
+  {
+    "word": "gegen",
+    "translation": "against, around",
+    "sentence_de": "Das Auto fährt gegen die Wand.",
+    "sentence_en": "The car drives against the wall."
+  },
+  {
+    "word": "seit",
+    "translation": "since, for (time)",
+    "sentence_de": "Ich lerne seit einem Jahr Deutsch.",
+    "sentence_en": "I have been learning German for one year."
+  },
+  {
+    "word": "aus",
+    "translation": "from, out of",
+    "sentence_de": "Der Junge kommt aus der Schule.",
+    "sentence_en": "The boy comes from school."
+  },
+  {
+    "word": "bei",
+    "translation": "at, near, with",
+    "sentence_de": "Ich bin bei meinem Freund.",
+    "sentence_en": "I am at my friend's place."
+  },
+  {
+    "word": "gegenüber",
+    "translation": "opposite, across from",
+    "sentence_de": "Die Bank ist gegenüber dem Supermarkt.",
+    "sentence_en": "The bank is across from the supermarket."
+  },
+  {
+    "word": "während",
+    "translation": "during",
+    "sentence_de": "Ich lese während der Pause.",
+    "sentence_en": "I read during the break."
+  },
+  {
+    "word": "trotz",
+    "translation": "despite",
+    "sentence_de": "Trotz des Regens gehen wir spazieren.",
+    "sentence_en": "Despite the rain, we go for a walk."
+  },
+  {
+    "word": "wegen",
+    "translation": "because of",
+    "sentence_de": "Wegen des Sturms bleibt die Schule geschlossen.",
+    "sentence_en": "Because of the storm, the school is closed."
+  },
+  {
+    "word": "um",
+    "translation": "around, at (time)",
+    "sentence_de": "Wir treffen uns um 18 Uhr.",
+    "sentence_en": "We meet at 6 PM."
+  },
+  {
+    "word": "aber",
+    "translation": "but",
+    "sentence_de": "Ich will kommen, aber ich bin müde.",
+    "sentence_en": "I want to come, but I am tired."
+  },
+  {
+    "word": "und",
+    "translation": "and",
+    "sentence_de": "Ich habe einen Hund und eine Katze.",
+    "sentence_en": "I have a dog and a cat."
+  },
+  {
+    "word": "oder",
+    "translation": "or",
+    "sentence_de": "Willst du Tee oder Kaffee?",
+    "sentence_en": "Do you want tea or coffee?"
+  },
+  {
+    "word": "denn",
+    "translation": "because, for",
+    "sentence_de": "Ich kann nicht kommen, denn ich bin krank.",
+    "sentence_en": "I cannot come because I am sick."
+  },
+  {
+    "word": "sondern",
+    "translation": "but rather",
+    "sentence_de": "Ich trinke keinen Kaffee, sondern Tee.",
+    "sentence_en": "I don’t drink coffee, but rather tea."
+  },
+  {
+    "word": "deshalb",
+    "translation": "therefore",
+    "sentence_de": "Es regnet, deshalb bleibe ich zu Hause.",
+    "sentence_en": "It’s raining, therefore I stay at home."
+  },
+  {
+    "word": "weil",
+    "translation": "because",
+    "sentence_de": "Ich lerne Deutsch, weil ich nach Deutschland will.",
+    "sentence_en": "I am learning German because I want to go to Germany."
+  },
+  {
+    "word": "wenn",
+    "translation": "if, when",
+    "sentence_de": "Wenn es regnet, bleiben wir zu Hause.",
+    "sentence_en": "If it rains, we stay at home."
+  },
+  {
+    "word": "dass",
+    "translation": "that",
+    "sentence_de": "Ich weiß, dass du müde bist.",
+    "sentence_en": "I know that you are tired."
+  },
+  {
+    "word": "damit",
+    "translation": "so that, in order that",
+    "sentence_de": "Ich lerne viel, damit ich die Prüfung bestehe.",
+    "sentence_en": "I study a lot so that I pass the exam."
+  },
+  {
+    "word": "ob",
+    "translation": "whether, if",
+    "sentence_de": "Ich weiß nicht, ob er kommt.",
+    "sentence_en": "I don’t know whether he is coming."
+  },
+  {
+    "word": "zu Hause",
+    "translation": "at home",
+    "sentence_de": "Ich bin zu Hause.",
+    "sentence_en": "I am at home."
+  },
+  {
+    "word": "heute",
+    "translation": "today",
+    "sentence_de": "Heute ist ein schöner Tag.",
+    "sentence_en": "Today is a beautiful day."
+  },
+  {
+    "word": "gestern",
+    "translation": "yesterday",
+    "sentence_de": "Gestern war ich im Kino.",
+    "sentence_en": "Yesterday I was at the cinema."
+  },
+  {
+    "word": "morgen",
+    "translation": "tomorrow",
+    "sentence_de": "Morgen gehen wir einkaufen.",
+    "sentence_en": "Tomorrow we go shopping."
+  },
+  {
+    "word": "jetzt",
+    "translation": "now",
+    "sentence_de": "Ich muss jetzt gehen.",
+    "sentence_en": "I must go now."
+  },
+  {
+    "word": "später",
+    "translation": "later",
+    "sentence_de": "Wir sprechen später.",
+    "sentence_en": "We will talk later."
+  },
+  {
+    "word": "bald",
+    "translation": "soon",
+    "sentence_de": "Ich komme bald zurück.",
+    "sentence_en": "I will come back soon."
+  },
+  {
+    "word": "immer noch",
+    "translation": "still",
+    "sentence_de": "Ich bin immer noch müde.",
+    "sentence_en": "I am still tired."
+  },
+  {
+    "word": "schon",
+    "translation": "already",
+    "sentence_de": "Ich habe das Buch schon gelesen.",
+    "sentence_en": "I have already read the book."
+  },
+  {
+    "word": "noch",
+    "translation": "yet, still",
+    "sentence_de": "Hast du noch Hunger?",
+    "sentence_en": "Are you still hungry?"
+  },
+  {
+    "word": "vielleicht",
+    "translation": "maybe, perhaps",
+    "sentence_de": "Vielleicht komme ich später.",
+    "sentence_en": "Maybe I will come later."
+  },
+  {
+    "word": "gern / gerne",
+    "translation": "gladly, with pleasure",
+    "sentence_de": "Ich esse gern Pizza.",
+    "sentence_en": "I like eating pizza."
+  },
+  {
+    "word": "leider",
+    "translation": "unfortunately",
+    "sentence_de": "Leider kann ich nicht kommen.",
+    "sentence_en": "Unfortunately, I cannot come."
+  },
+  {
+    "word": "bitte",
+    "translation": "please, you’re welcome",
+    "sentence_de": "Bitte gib mir das Buch.",
+    "sentence_en": "Please give me the book."
+  },
+  {
+    "word": "danke",
+    "translation": "thank you",
+    "sentence_de": "Danke für deine Hilfe.",
+    "sentence_en": "Thank you for your help."
+  },
+  {
+    "word": "entschuldigung",
+    "translation": "sorry, excuse me",
+    "sentence_de": "Entschuldigung, ich habe das nicht verstanden.",
+    "sentence_en": "Sorry, I did not understand that."
+  },
+  {
+    "word": "kein / keine",
+    "translation": "no, none",
+    "sentence_de": "Ich habe keine Zeit.",
+    "sentence_en": "I have no time."
+  },
+  {
+    "word": "alles",
+    "translation": "everything",
+    "sentence_de": "Alles ist bereit.",
+    "sentence_en": "Everything is ready."
+  },
+  {
+    "word": "nichts",
+    "translation": "nothing",
+    "sentence_de": "Ich habe nichts zu sagen.",
+    "sentence_en": "I have nothing to say."
+  },
+  {
+    "word": "jemand",
+    "translation": "someone, somebody",
+    "sentence_de": "Jemand hat an der Tür geklopft.",
+    "sentence_en": "Someone knocked on the door."
+  },
+  {
+    "word": "niemand",
+    "translation": "no one, nobody",
+    "sentence_de": "Niemand ist zu Hause.",
+    "sentence_en": "No one is at home."
+  },
+  {
+    "word": "man",
+    "translation": "one, people",
+    "sentence_de": "Man muss jeden Tag lernen.",
+    "sentence_en": "One must study every day."
+  },
+  {
+    "word": "wer",
+    "translation": "who",
+    "sentence_de": "Wer hat das gesagt?",
+    "sentence_en": "Who said that?"
+  },
+  {
+    "word": "was",
+    "translation": "what",
+    "sentence_de": "Was machst du?",
+    "sentence_en": "What are you doing?"
+  },
+  {
+    "word": "wo",
+    "translation": "where",
+    "sentence_de": "Wo wohnst du?",
+    "sentence_en": "Where do you live?"
+  },
+  {
+    "word": "wann",
+    "translation": "when",
+    "sentence_de": "Wann beginnt der Unterricht?",
+    "sentence_en": "When does the class start?"
+  },
+  {
+    "word": "warum",
+    "translation": "why",
+    "sentence_de": "Warum bist du traurig?",
+    "sentence_en": "Why are you sad?"
+  },
+  {
+    "word": "wie",
+    "translation": "how",
+    "sentence_de": "Wie geht es dir?",
+    "sentence_en": "How are you?"
+  },
+  {
+    "word": "welche / welcher / welches",
+    "translation": "which",
+    "sentence_de": "Welche Farbe magst du?",
+    "sentence_en": "Which color do you like?"
+  },
+  {
+    "word": "viel / viele",
+    "translation": "much, many",
+    "sentence_de": "Ich habe viele Freunde.",
+    "sentence_en": "I have many friends."
+  },
+  {
+    "word": "mehr",
+    "translation": "more",
+    "sentence_de": "Ich möchte mehr Wasser.",
+    "sentence_en": "I want more water."
+  },
+  {
+    "word": "wenig",
+    "translation": "few, little",
+    "sentence_de": "Ich habe nur wenig Zeit.",
+    "sentence_en": "I have only a little time."
+  },
+  {
+    "word": "alle",
+    "translation": "all, everyone",
+    "sentence_de": "Alle Schüler sind da.",
+    "sentence_en": "All the students are here."
+  },
+  {
+    "word": "jeder / jede / jedes",
+    "translation": "every, each",
+    "sentence_de": "Jeder kann mitmachen.",
+    "sentence_en": "Everyone can join."
+  },
+  {
+    "word": "andere",
+    "translation": "other",
+    "sentence_de": "Die anderen Kinder spielen draußen.",
+    "sentence_en": "The other children are playing outside."
+  },
+  {
+    "word": "erst",
+    "translation": "first, only",
+    "sentence_de": "Ich esse erst dann, wenn du fertig bist.",
+    "sentence_en": "I will eat only when you are done."
+  },
+  {
+    "word": "schlecht",
+    "translation": "bad",
+    "sentence_de": "Mir geht es schlecht.",
+    "sentence_en": "I feel bad."
+  },
+  {
+    "word": "gut",
+    "translation": "good",
+    "sentence_de": "Das Essen schmeckt gut.",
+    "sentence_en": "The food tastes good."
+  },
+  {
+    "word": "neu",
+    "translation": "new",
+    "sentence_de": "Ich habe ein neues Handy.",
+    "sentence_en": "I have a new phone."
+  },
+  {
+    "word": "alt",
+    "translation": "old",
+    "sentence_de": "Mein Auto ist sehr alt.",
+    "sentence_en": "My car is very old."
+  },
+  {
+    "word": "schön",
+    "translation": "beautiful, nice",
+    "sentence_de": "Das ist ein schönes Bild.",
+    "sentence_en": "That is a beautiful picture."
+  },
+  {
+    "word": "hässlich",
+    "translation": "ugly",
+    "sentence_de": "Der Hund ist hässlich.",
+    "sentence_en": "The dog is ugly."
+  },
+  {
+    "word": "leicht",
+    "translation": "easy, light",
+    "sentence_de": "Die Aufgabe ist leicht.",
+    "sentence_en": "The task is easy."
+  },
+  {
+    "word": "schwer",
+    "translation": "difficult, heavy",
+    "sentence_de": "Der Koffer ist schwer.",
+    "sentence_en": "The suitcase is heavy."
+  },
+  {
+    "word": "kalt",
+    "translation": "cold",
+    "sentence_de": "Heute ist es sehr kalt.",
+    "sentence_en": "It is very cold today."
+  },
+  {
+    "word": "warm",
+    "translation": "warm",
+    "sentence_de": "Die Suppe ist warm.",
+    "sentence_en": "The soup is warm."
+  },
+  {
+    "word": "heiß",
+    "translation": "hot",
+    "sentence_de": "Der Tee ist heiß.",
+    "sentence_en": "The tea is hot."
+  },
+  {
+    "word": "interessant",
+    "translation": "interesting",
+    "sentence_de": "Das Buch ist interessant.",
+    "sentence_en": "The book is interesting."
+  },
+  {
+    "word": "langweilig",
+    "translation": "boring",
+    "sentence_de": "Der Film ist langweilig.",
+    "sentence_en": "The movie is boring."
+  },
+  {
+    "word": "glücklich",
+    "translation": "happy",
+    "sentence_de": "Ich bin heute glücklich.",
+    "sentence_en": "I am happy today."
+  },
+  {
+    "word": "traurig",
+    "translation": "sad",
+    "sentence_de": "Er ist traurig, weil sein Hund weg ist.",
+    "sentence_en": "He is sad because his dog is gone."
+  },
+  {
+    "word": "müde",
+    "translation": "tired",
+    "sentence_de": "Ich bin sehr müde nach der Arbeit.",
+    "sentence_en": "I am very tired after work."
+  },
+  {
+    "word": "hungrig",
+    "translation": "hungry",
+    "sentence_de": "Ich bin hungrig.",
+    "sentence_en": "I am hungry."
+  },
+  {
+    "word": "durstig",
+    "translation": "thirsty",
+    "sentence_de": "Ich bin durstig und möchte Wasser.",
+    "sentence_en": "I am thirsty and want water."
+  },
+  {
+    "word": "gesund",
+    "translation": "healthy",
+    "sentence_de": "Gemüse ist gesund.",
+    "sentence_en": "Vegetables are healthy."
+  },
+  {
+    "word": "krank",
+    "translation": "sick",
+    "sentence_de": "Er ist krank und bleibt zu Hause.",
+    "sentence_en": "He is sick and stays at home."
+  },
+  {
+    "word": "frei",
+    "translation": "free, available",
+    "sentence_de": "Ich habe am Wochenende frei.",
+    "sentence_en": "I am free on the weekend."
+  },
+  {
+    "word": "besetzt",
+    "translation": "occupied, taken",
+    "sentence_de": "Der Stuhl ist besetzt.",
+    "sentence_en": "The chair is occupied."
+  },
+  {
+    "word": "heute",
+    "translation": "today",
+    "sentence_de": "Heute ist Montag.",
+    "sentence_en": "Today is Monday."
+  },
+  {
+    "word": "morgen",
+    "translation": "tomorrow",
+    "sentence_de": "Morgen gehe ich einkaufen.",
+    "sentence_en": "Tomorrow I will go shopping."
+  },
+  {
+    "word": "gestern",
+    "translation": "yesterday",
+    "sentence_de": "Gestern war ein schöner Tag.",
+    "sentence_en": "Yesterday was a nice day."
+  },
+  {
+    "word": "immer",
+    "translation": "always",
+    "sentence_de": "Ich esse immer Frühstück.",
+    "sentence_en": "I always eat breakfast."
+  },
+  {
+    "word": "oft",
+    "translation": "often",
+    "sentence_de": "Wir gehen oft spazieren.",
+    "sentence_en": "We often go for a walk."
+  },
+  {
+    "word": "manchmal",
+    "translation": "sometimes",
+    "sentence_de": "Manchmal regnet es hier.",
+    "sentence_en": "Sometimes it rains here."
+  },
+  {
+    "word": "selten",
+    "translation": "rarely",
+    "sentence_de": "Ich esse selten Fastfood.",
+    "sentence_en": "I rarely eat fast food."
+  },
+  {
+    "word": "nie",
+    "translation": "never",
+    "sentence_de": "Ich rauche nie.",
+    "sentence_en": "I never smoke."
+  },
+  {
+    "word": "jetzt",
+    "translation": "now",
+    "sentence_de": "Ich gehe jetzt nach Hause.",
+    "sentence_en": "I am going home now."
+  },
+  {
+    "word": "gleich",
+    "translation": "soon, immediately",
+    "sentence_de": "Wir starten gleich.",
+    "sentence_en": "We will start soon."
+  },
+  {
+    "word": "später",
+    "translation": "later",
+    "sentence_de": "Ich rufe dich später an.",
+    "sentence_en": "I will call you later."
+  },
+  {
+    "word": "gestern Abend",
+    "translation": "yesterday evening",
+    "sentence_de": "Gestern Abend habe ich ferngesehen.",
+    "sentence_en": "Yesterday evening I watched TV."
+  },
+  {
+    "word": "heute Morgen",
+    "translation": "this morning",
+    "sentence_de": "Heute Morgen habe ich gefrühstückt.",
+    "sentence_en": "This morning I had breakfast."
+  },
+  {
+    "word": "am Wochenende",
+    "translation": "on the weekend",
+    "sentence_de": "Am Wochenende besuche ich Freunde.",
+    "sentence_en": "On the weekend I visit friends."
+  },
+  {
+    "word": "seit",
+    "translation": "since, for (time)",
+    "sentence_de": "Ich lerne seit einem Jahr Deutsch.",
+    "sentence_en": "I have been learning German for one year."
+  },
+  {
+    "word": "vor",
+    "translation": "before, ago",
+    "sentence_de": "Vor einer Woche war ich krank.",
+    "sentence_en": "I was sick a week ago."
+  },
+  {
+    "word": "nach",
+    "translation": "after, to",
+    "sentence_de": "Nach der Arbeit gehe ich einkaufen.",
+    "sentence_en": "After work, I go shopping."
+  },
+  {
+    "word": "bis",
+    "translation": "until",
+    "sentence_de": "Ich arbeite bis 18 Uhr.",
+    "sentence_en": "I work until 6 PM."
+  },
+  {
+    "word": "mit",
+    "translation": "with",
+    "sentence_de": "Ich gehe mit meinem Freund ins Kino.",
+    "sentence_en": "I am going to the cinema with my friend."
+  },
+  {
+    "word": "ohne",
+    "translation": "without",
+    "sentence_de": "Ich trinke Kaffee ohne Zucker.",
+    "sentence_en": "I drink coffee without sugar."
+  },
+  {
+    "word": "für",
+    "translation": "for",
+    "sentence_de": "Dieses Geschenk ist für dich.",
+    "sentence_en": "This gift is for you."
+  },
+  {
+    "word": "gegen",
+    "translation": "against",
+    "sentence_de": "Ich bin gegen Gewalt.",
+    "sentence_en": "I am against violence."
+  },
+  {
+    "word": "über",
+    "translation": "about, over",
+    "sentence_de": "Wir sprechen über das Wetter.",
+    "sentence_en": "We talk about the weather."
+  },
+  {
+    "word": "unter",
+    "translation": "under, among",
+    "sentence_de": "Das Buch liegt unter dem Tisch.",
+    "sentence_en": "The book is under the table."
+  },
+  {
+    "word": "zwischen",
+    "translation": "between",
+    "sentence_de": "Das Café liegt zwischen Schule und Bahnhof.",
+    "sentence_en": "The café is between the school and the station."
+  },
+  {
+    "word": "gegenüber",
+    "translation": "opposite, across from",
+    "sentence_de": "Der Supermarkt ist gegenüber der Bank.",
+    "sentence_en": "The supermarket is across from the bank."
+  },
+  {
+    "word": "neben",
+    "translation": "next to, beside",
+    "sentence_de": "Die Apotheke ist neben der Post.",
+    "sentence_en": "The pharmacy is next to the post office."
+  },
+  {
+    "word": "an",
+    "translation": "at, on",
+    "sentence_de": "Das Bild hängt an der Wand.",
+    "sentence_en": "The picture is hanging on the wall."
+  },
+  {
+    "word": "auf",
+    "translation": "on, upon",
+    "sentence_de": "Das Buch liegt auf dem Tisch.",
+    "sentence_en": "The book is on the table."
+  },
+  {
+    "word": "in",
+    "translation": "in, into",
+    "sentence_de": "Ich gehe in die Schule.",
+    "sentence_en": "I am going to school."
+  },
+  {
+    "word": "zwischenzeitlich",
+    "translation": "meanwhile, in the meantime",
+    "sentence_de": "Zwischenzeitlich habe ich Kaffee getrunken.",
+    "sentence_en": "In the meantime, I drank coffee."
+  },
+  {
+    "word": "seitdem",
+    "translation": "since then",
+    "sentence_de": "Seitdem ich Deutsch lerne, verstehe ich Filme besser.",
+    "sentence_en": "Since then I have been learning German, I understand movies better."
+  },
+  {
+    "word": "doch",
+    "translation": "however, but",
+    "sentence_de": "Ich habe wenig Zeit, doch ich komme.",
+    "sentence_en": "I have little time, but I am coming."
+  },
+  {
+    "word": "also",
+    "translation": "so, therefore",
+    "sentence_de": "Es regnet, also bleibe ich zu Hause.",
+    "sentence_en": "It is raining, so I am staying at home."
+  },
+  {
+    "word": "aber",
+    "translation": "but",
+    "sentence_de": "Ich mag Eis, aber ich esse es selten.",
+    "sentence_en": "I like ice cream, but I eat it rarely."
+  },
+  {
+    "word": "und",
+    "translation": "and",
+    "sentence_de": "Ich mag Kaffee und Tee.",
+    "sentence_en": "I like coffee and tea."
+  },
+  {
+    "word": "oder",
+    "translation": "or",
+    "sentence_de": "Willst du Tee oder Kaffee?",
+    "sentence_en": "Do you want tea or coffee?"
+  },
+  {
+    "word": "denn",
+    "translation": "because, for",
+    "sentence_de": "Ich gehe früh ins Bett, denn ich bin müde.",
+    "sentence_en": "I go to bed early because I am tired."
+  },
+  {
+    "word": "wenn",
+    "translation": "if, when",
+    "sentence_de": "Wenn es regnet, bleibe ich zu Hause.",
+    "sentence_en": "If it rains, I stay at home."
+  },
+  {
+    "word": "ob",
+    "translation": "whether, if",
+    "sentence_de": "Ich weiß nicht, ob er kommt.",
+    "sentence_en": "I don’t know if he is coming."
+  },
+  {
+    "word": "dann",
+    "translation": "then",
+    "sentence_de": "Zuerst essen wir, dann gehen wir spazieren.",
+    "sentence_en": "First we eat, then we go for a walk."
+  },
+  {
+    "word": "hier",
+    "translation": "here",
+    "sentence_de": "Komm hierher.",
+    "sentence_en": "Come here."
+  },
+  {
+    "word": "dort",
+    "translation": "there",
+    "sentence_de": "Das Buch liegt dort.",
+    "sentence_en": "The book is there."
+  },
+  {
+    "word": "links",
+    "translation": "left",
+    "sentence_de": "Die Bank ist links von der Schule.",
+    "sentence_en": "The bank is to the left of the school."
+  },
+  {
+    "word": "rechts",
+    "translation": "right",
+    "sentence_de": "Die Apotheke ist rechts.",
+    "sentence_en": "The pharmacy is on the right."
+  },
+  {
+    "word": "geradeaus",
+    "translation": "straight ahead",
+    "sentence_de": "Gehen Sie geradeaus.",
+    "sentence_en": "Go straight ahead."
+  },
+  {
+    "word": "nach links",
+    "translation": "to the left",
+    "sentence_de": "Biegen Sie nach links ab.",
+    "sentence_en": "Turn to the left."
+  },
+  {
+    "word": "nach rechts",
+    "translation": "to the right",
+    "sentence_de": "Biegen Sie nach rechts ab.",
+    "sentence_en": "Turn to the right."
+  },
+  {
+    "word": "oben",
+    "translation": "up, above",
+    "sentence_de": "Die Lampe hängt oben.",
+    "sentence_en": "The lamp is hanging above."
+  },
+  {
+    "word": "unten",
+    "translation": "down, below",
+    "sentence_de": "Der Keller ist unten.",
+    "sentence_en": "The basement is below."
+  },
+  {
+    "word": "fast",
+    "translation": "almost",
+    "sentence_de": "Ich bin fast fertig.",
+    "sentence_en": "I am almost finished."
+  },
+  {
+    "word": "gerne",
+    "translation": "gladly, with pleasure",
+    "sentence_de": "Ich helfe dir gerne.",
+    "sentence_en": "I am happy to help you."
+  },
+  {
+    "word": "bitte",
+    "translation": "please, you’re welcome",
+    "sentence_de": "Kannst du mir helfen, bitte?",
+    "sentence_en": "Can you help me, please?"
+  },
+  {
+    "word": "danke",
+    "translation": "thank you",
+    "sentence_de": "Danke für deine Hilfe.",
+    "sentence_en": "Thank you for your help."
+  },
+  {
+    "word": "tschüss",
+    "translation": "bye",
+    "sentence_de": "Tschüss, bis morgen!",
+    "sentence_en": "Bye, see you tomorrow!"
+  },
+  {
+    "word": "auf Wiedersehen",
+    "translation": "goodbye, formal",
+    "sentence_de": "Auf Wiedersehen, Herr Müller.",
+    "sentence_en": "Goodbye, Mr. Müller."
+  },
+  {
+    "word": "Entschuldigung",
+    "translation": "excuse me, sorry",
+    "sentence_de": "Entschuldigung, können Sie mir helfen?",
+    "sentence_en": "Excuse me, can you help me?"
+  },
+  {
+    "word": "keine Ahnung",
+    "translation": "no idea",
+    "sentence_de": "Ich habe keine Ahnung.",
+    "sentence_en": "I have no idea."
+  }
+]
+
+
+
+

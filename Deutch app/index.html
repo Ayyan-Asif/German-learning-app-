@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>German Word Reminder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="app-container">
+        <h1>🇩🇪 Wort des Tages</h1>
+        <h2>A1 Level</h2>
+
+        <div class="card">
+            <h2 id="word">gehen</h2>
+            <p id="translation">to go</p>
+
+            <p id="sentence-de">Ich gehe zur Schule.</p>
+            <p id="sentence-en">I go to school.</p>
+        </div>
+        <div class="progress-container">
+    <div id="progress-bar"></div>
+</div>
+<p id="progress-text"></p>
+
+
+        <button onclick="nextWord()">Next Word</button>
+        <button onclick="markKnown()">I know this word</button>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
